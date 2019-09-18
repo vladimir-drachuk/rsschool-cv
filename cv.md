@@ -10,4 +10,7 @@
 4. Skills: 
     * Html - beginner.
     * Css - beginner(I can make up both grid technology and flex)
+
 *P.S.* Reading book learn-javascript in a process now. A also had practice with bash(linux).
+
+5. qwerty
