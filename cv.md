@@ -11,10 +11,10 @@
     * Html - beginner.
     * Css - beginner(I can make up both grid technology and flex)
     * *P.S.* Reading book learn-javascript in a process now. A also had practice with bash(linux).
-5. My first expуrience with layout [link](https://github.com/vladimir-drachuk/Training_Work).
-6. Codeacademy [linkca](https://www.codecademy.com/profiles/cloud5094805931), Htmlacademy/
+5. My first expуrience with layout [https://github.com/vladimir-drachuk/Training_Work](https://github.com/vladimir-drachuk/Training_Work).
+6. Codeacademy [https://www.codecademy.com/profiles/cloud5094805931](https://www.codecademy.com/profiles/cloud5094805931), Htmlacademy/
 7. Education:
-    *BSUIR ended in 2010;
-    *cousres of system administrator (TCP/IP routing) in 2014.
-    *sometimes visited IMAGURU seminars in evening.
+    * BSUIR ended in 2010;
+    * cousres of system administrator (TCP/IP routing) in 2014.
+    * sometimes visited IMAGURU seminars in evening.
 8. Ended pre-intermidiate course two month ago and now learn at intermediate course.
