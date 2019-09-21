@@ -1,13 +1,14 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    border: 1px solid blue;
+    font-family: sans-serif;
 }
 
 .container {
     width: 1024px;
     margin: 0 auto;
+    background: url(../images/pattern.png)
 }
 
 .head {
@@ -18,11 +19,40 @@
 
 h1, .footer {
     margin: 10px 0;
-    background-color: lightblue;
+    background-color: lightskyblue;
     height: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia;
+    margin-bottom: 20px;
 }
 
 li {
     list-style-type: none;
 }
 
+.goal {
+    margin: 20px 30px;
+}
+
+h3 {
+    margin: 10px 0;
+    text-align: center;
+    height: 40px;
+    border-radius: 2px;
+    background-color: lightblue;
+    padding-top: 10px;
+    
+}
+
+.main {
+    padding: 0 80px;
+}
+
+.footer {
+     text-align: right;
+     padding: 35px 5px 0 0;
+     font-size: 7pt;
+}
