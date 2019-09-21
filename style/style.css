@@ -11,13 +11,13 @@
     background: url(../images/pattern.png)
 }
 
-.head {
+header {
     font-family: Georgia, Serif;
     font-size: 20px;
     text-align: center;
 }
 
-h1, .footer {
+h1, footer {
     margin: 10px 0;
     background-color: lightskyblue;
     height: 50px;
@@ -47,11 +47,11 @@ h3 {
     
 }
 
-.main {
+main {
     padding: 0 80px;
 }
 
-.footer {
+footer {
      text-align: right;
      padding: 35px 5px 0 0;
      font-size: 7pt;
